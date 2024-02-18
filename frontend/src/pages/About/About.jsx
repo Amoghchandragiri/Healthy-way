@@ -59,7 +59,7 @@ function About() {
           mt="25px"
           fontSize={["md", "md", "lg", "lg"]}
         >
-          HealthyWay's success has hinged entirely on positive word-of-mouth
+          MyFitnessHelp's success has hinged entirely on positive word-of-mouth
           from its users. The company is still – and plans to continue being – a
           bootstrap startup to this day.
         </Text>
