@@ -2,7 +2,7 @@ import * as types from "./user.actionTypes";
 import { addDatadiary, deleteDataDiary, getnutriData, getuserData } from "./user.api";
 
 
-// Handle the loding and error state
+// Handle the loading and error state
 
 export const handleLoading = () => {
     return {type: types.LOADING};

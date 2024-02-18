@@ -1,11 +1,6 @@
 import React, { ReactNode } from "react";
 import {
-  IconButton,
-  Avatar,
-  Box,
-  CloseButton,
-  Flex,
-  HStack,
+  IconButton, Avatar, Box,CloseButton,Flex,HStack,
   VStack,
   Icon,
   useColorModeValue,
@@ -24,13 +19,7 @@ import {
   Image,
 } from "@chakra-ui/react";
 import {
-  FiHome,
-  FiUsers,
-  FiStar,
-  FiSettings,
-  FiMenu,
-  FiBell,
-  FiChevronDown,
+  FiHome,FiUsers,FiStar,FiSettings,FiMenu,FiBell,FiChevronDown,
 } from "react-icons/fi";
 import { MdOutlineEmojiFoodBeverage } from "react-icons/md";
 import { AiOutlineLogin } from "react-icons/ai";
@@ -49,7 +38,7 @@ const LinkItems = [
     icon: MdOutlineEmojiFoodBeverage,
     path: "nutridata",
   },
-  { name: "Add Nutriants", icon: MdOutlineAdd, path: "nutridata/add" },
+  { name: "Add Nutrients", icon: MdOutlineAdd, path: "nutridata/add" },
   { name: "Login", icon: AiOutlineLogin, path: "login" },
 ];
 const SidebarWithNav = () => {
@@ -133,7 +122,7 @@ const NavItem = ({ icon, name, path, children, ...rest }) => {
         cursor="pointer"
         _hover={{
           bg: "cyan.400",
-          color: "white",
+          color: "green",
         }}
         {...rest}
       >

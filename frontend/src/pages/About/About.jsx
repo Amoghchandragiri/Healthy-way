@@ -18,7 +18,7 @@ function About() {
           fontWeight="extrabold"
           mt={"50px"}
         >
-          About the Company
+          About MyFitnessHelp
         </Heading>
         <Text
           color="black"
@@ -27,8 +27,8 @@ function About() {
           mt="70px"
           fontSize={["md", "md", "lg", "lg"]}
         >
-          HealthyWay is the most accurate, comprehensive nutrition tracking app
-          on earth. Unlike other apps on the market, our nutritional data is
+          MyFitnessHelp is a highly accurate accurate, comprehensive nutrition tracking website.
+           Unlike other websites on the market, our nutritional data is
           curated from verified, accurate sources. We aim to provide a complete
           solution – no matter what diet you choose to be on.
         </Text>
@@ -39,13 +39,9 @@ function About() {
           mt="25px"
           fontSize={["md", "md", "lg", "lg"]}
         >
-          Our CEO, Aaron Davidson, built HeathyWay as a side project in 2005. He
-          was following the CRON diet (Calorie Restriction with Optimal
-          Nutrition) and being the nutrition nerd/software developer that he is,
-          decided to build an app to track his diet. Thus, HealthyWay was born.
-          It was several years later before he came to the conclusion that maybe
-          he was onto something and quit his six-figure corporate job to focus
-          on improving HealthyWay.
+           CRON diet (Calorie Restriction with OptimalNutrition) has become
+           a major trend.That was our inspiration
+          and thus, we created MyFitnessHelp
         </Text>
         <Text
           color="black"
@@ -93,11 +89,7 @@ function About() {
           mt="25px"
           fontSize={["md", "md", "lg", "lg"]}
         >
-          While our staff spans the globe our headquarters is based in the
-          small-town of Revelstoke, British Columbia, Canada. Revelstoke is a
-          health-centric mountain town brimming with endless options for staying
-          active and a growing tech community – the perfect combination to call
-          home.
+          We plan on expanding our website's consumer base.
         </Text>
         <Text
           color="black"
@@ -108,11 +100,7 @@ function About() {
         >
           We are an eclectic mix of web developers, designers, nutrition
           scientists, business majors and personal trainers brought together by
-          a love of nutrition. While our company has grown our mission and
-          values have remained the same; we believe full spectrum nutrition is
-          the best way to understand your diet’s effect on your health. We also
-          believe in empowering everyone by ensuring they have access to
-          accurate and comprehensive data to make informed decisions.
+          a love of nutrition. 
         </Text>
         <Text
           color="black"
@@ -122,9 +110,7 @@ function About() {
           fontSize={["md", "md", "lg", "lg"]}
         >
           Our goal is to build the best software for people and professionals to
-          manage their nutrition. And we have the passion to make that happen;
-          amazing data paired with awesome customer support truly are the
-          HealthyWay difference.
+          manage their nutrition.
         </Text>
         <Text
           color="black"
@@ -144,7 +130,7 @@ function About() {
           fontSize={["md", "md", "lg", "lg"]}
         >
           Have questions? We would love to hear from you. Email us at:
-          support@HealthyWay.com
+          support@MyFitnessHelp.com
         </Text>
 
         <Box

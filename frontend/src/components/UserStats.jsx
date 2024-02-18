@@ -37,17 +37,10 @@ export default function UserStats() {
         {
             id: 2,
             src: "https://braze-images.com/appboy/communication/marketing/content_cards_message_variations/images/64061f703e80bd606cddc125/3b3eacdd22f8ef4d005f9a1a66ff90554cb553fe/original.png?1678122868",
-            title: "Welcome To Cronometer, Nutrition Nerd In The Making!",
-            desc: "Click here for our favourite tips & tricks to get the most out of your Cronometer account.",
+            title: "Welcome To MyFitnessHelp, Nutrition Nerd In The Making!",
+            desc: "Click here for our favourite tips & tricks to get the most recommendations for your fitness.",
             btn: "GET THE TIPS"
         },
-        {
-            id: 3,
-            src: "https://braze-images.com/appboy/communication/marketing/content_cards_message_variations/images/64061f703e80bd606cddc131/57fa6f0ea4ff8e61008175c430038bdff133dc86/original.png?1678122869",
-            title: "Create Your First Recipe",
-            desc: "Recipes can make tracking the foods you eat on a regular basis a serious breeze! Learn how to create custom recipes with the link below.",
-            btn: "LEARN HOW"
-        }
     ];
 
     return (
@@ -110,7 +103,7 @@ export default function UserStats() {
             </Flex>
         </Flex>
 
-        {/* About HealthyWay */}
+        {/* About MyFitnessHelp */}
 
         <Grid templateColumns={{base: "repeat(1,1fr)",sm: "repeat(2,1fr)", md: "repeat(2,1fr)", lg: "repeat(2,1fr)", xl: "repeat(3,1fr)"}} gap="30px" mt="20px">
             {about.map((e) => 

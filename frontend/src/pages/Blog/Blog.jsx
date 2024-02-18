@@ -33,7 +33,7 @@ const Blog = () => {
           fontWeight={"extrabold"}
           pt="50px"
         >
-          HealthyWay Blogs
+          MyFitnessHelp Blogs
         </Text>
         <Center
           textAlign={"center"}
@@ -57,11 +57,11 @@ const Blog = () => {
           gap={"10%"}
         >
           <VStack w={["90%", "85%%", "45%"]}>
-            <Heading>Eat Smater.</Heading>
+            <Heading>Eat Smarter.</Heading>
             <Heading>Live Better.</Heading>
             <Text>
               Get to know the eating habits that make your body thrive. The
-              HealthyWay app lets you easily track your nutrition, helping you
+              MyFitnessHelp app lets you easily track your nutrition, helping you
               to live a healthier, happier life.
             </Text>
             <Button colorScheme="green">GET STARTED</Button>
@@ -108,7 +108,7 @@ const Blog = () => {
               fontWeight={"extrabold"}
               mt="20px"
             >
-              Mastering Diabetes with HealthyWay
+              Mastering Diabetes with MyFitnessHelp
             </Text>
             <Text>December 1, 2022</Text>
           </GridItem>
@@ -121,7 +121,7 @@ const Blog = () => {
               src="https://cronometer.com/blog/wp-content/uploads/2022/09/cronometer-new-logo@2x.png"
             />
             <Text fontSize={["m", "lg", "xl"]} fontWeight={"extrabold"}>
-              Our New Look: The Details Behind HealthyWay’s Makeover
+              Our New Look: The Details Behind MyFitnessHelp’s Makeover
             </Text>
             <Text>November 14, 2022</Text>
           </GridItem>
@@ -134,7 +134,7 @@ const Blog = () => {
               src="https://cronometer.com/blog/wp-content/uploads/2022/06/Blog-Img-New-Improved.png"
             />
             <Text fontSize={["m", "lg", "xl"]} fontWeight={"extrabold"}>
-              New & Improved: The Latest HealthyWay Updates
+              New & Improved: The Latest  Updates
             </Text>
             <Text>November 14, 2022</Text>
           </GridItem>
@@ -214,7 +214,7 @@ const Blog = () => {
           <Box W={["95%", "55%", "35%"]}>
             <Text>CRONO HACKS</Text>
             <Text fontSize={["xl", "2xl", "4xl"]} fontWeight={"bold"}>
-              HealthyWay Tips & Tricks
+              MyFitnessHelp Tips & Tricks
             </Text>
             <Text fontSize={["s", "m", "l"]}>
               Whether you’re a new or longtime user, here are some helpful tips
@@ -246,7 +246,7 @@ const Blog = () => {
               New & Improved: The Latest Updates
             </Text>
             <Text fontSize={["s", "m", "l"]}>
-              Get up to date on all of the latest HealthyWay updates, including
+              Get up to date on all of the latest MyFitnessHelp updates, including
               cool new features like our Recipe Importer or Target Scheduler!
             </Text>
             <br />
@@ -279,7 +279,7 @@ const Blog = () => {
               Eat smarter. Live better.
             </Text>
             <Text color="white" fontSize={["m", "l", "xl"]} fontWeight="medium">
-              Track your foods, exercise, and health data with the HealthyWay
+              Track your foods, exercise, and health data with the MyFitnessHelp
               app.
             </Text>
           </Box>
@@ -389,7 +389,7 @@ const Blog = () => {
               fontWeight={"extrabold"}
               mt="20px"
             >
-              Mastering Diabetes with HealthyWay
+              Mastering Diabetes with MyFitnessHelp
             </Text>
             <Text>December 1, 2022</Text>
           </GridItem>
@@ -406,7 +406,7 @@ const Blog = () => {
               fontWeight={"extrabold"}
               mt="20px"
             >
-              Our New Look: The Details Behind HealthyWay Makeover
+              Our New Look: The Details Behind  Makeover
             </Text>
             <Text>November 14, 2022</Text>
           </GridItem>
@@ -423,7 +423,7 @@ const Blog = () => {
               fontWeight={"extrabold"}
               mt="20px"
             >
-              New & Improved: The Latest HealthyWay Updates
+              New & Improved: The Latest  Updates
             </Text>
             <Text>November 14, 2022</Text>
           </GridItem>
@@ -535,7 +535,7 @@ const Blog = () => {
         >
           <Flex w="46%" flexDirection={"column"} justifyContent="center">
             <Text fontSize={["xl", "2xl", "3xl"]} fontWeight="bold">
-              Track your food, exercise and health metrics with the HealthyWay
+              Track your food, exercise and health metrics with the MyFitnessHelp
               app.
             </Text>
             <br />

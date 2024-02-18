@@ -26,11 +26,9 @@ const SubscribeModal = () => {
       title: "Payment Successful",
       description: "Thank you for subscribing!",
       status: "success",
-      duration: 5000,
+      duration: 6000,
       isClosable: true,
     });
-
-    // Close modal
     onClose();
   };
 

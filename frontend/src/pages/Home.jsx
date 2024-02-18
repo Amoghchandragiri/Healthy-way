@@ -432,8 +432,8 @@ const Home = () => {
               </Box>
               <Box>
                 <Text>
-                  After leaving SparkPeople, I came here. I love that it is
-                  Canadian,
+                  After leaving SparkPeople, I came here. I love that it 
+                  includes
                   <br /> includes fasting, can import recipes, gives me macro
                   details, and <br /> more. This is my daily tracking app.
                 </Text>
@@ -506,7 +506,7 @@ const Home = () => {
           <GridItem>
             <VStack mt={"60px"}>
               <Text fontSize={"5xl"} fontWeight="700">
-                Healthy Way <span style={{ color: "#44d07b" }}>Pro</span>
+               MyFitnessHelp <span style={{ color: "#44d07b" }}>Pro</span>
               </Text>
               <Text fontSize={"2xl"} fontWeight="500">
                 For Health Professionals

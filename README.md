@@ -1,20 +1,9 @@
-# Healthy-Way
+# MyFitnessHelp
 
-Healthyway is a website that functions as a nutrition tracking tool to help users reach their health goals by monitoring their daily caloric intake and other relevant factors.
+MyFitnessHelp is a website that functions as a nutrition tracking tool to help users reach their health goals by monitoring their daily caloric intake and other relevant factors.
 
- [Healthy-way](https://healty-way.vercel.app/) - Deployed Link
- 
- 
+ We have developed a full-stack nutrition tracking website.  We have created an authentication system for verified users, landing page for blogs and various services, Dashboard for tracking nutrition with help of graphs, pie charts or other data visualization techniques with a focus on enhancing the user experience. 
 
-![heathyWay-Logo-2](https://user-images.githubusercontent.com/112800148/229407238-62ef717d-228d-4d14-888a-55ad7fee2b26.jpg)
-
-As part of our collaborative project during Construct Week at Masai School, we developed a full-stack nutrition tracking website inspired by Cronometer. In just 5 days, our team of 4 developers created an authentication system, landing page, and dashboard for tracking nutrition with a focus on enhancing the user experience. We worked hard to ensure that the website was functional and aesthetically appealing, and incorporated our own unique ideas and designs into the project.
-
-## Team
-- Somesh Rawat
-- Ojas Bendale 
-- Malikrehan Meeranaik
-- Neerav Khatri
 
 ## Tech Stack
 
@@ -22,7 +11,7 @@ As part of our collaborative project during Construct Week at Masai School, we d
  
   - React
   - JavaScript
-  - CSS 5
+  - CSS
   - Chakr UI
   - Redux
 
@@ -41,19 +30,16 @@ As part of our collaborative project during Construct Week at Masai School, we d
 
 ![Screenshot 2023-04-03 093037](https://user-images.githubusercontent.com/112800148/229409207-292906d6-cbc8-46af-8a32-5dc2e282594a.png)
 
-## Support Page
-
-![Screenshot 2023-04-03 093128](https://user-images.githubusercontent.com/112800148/229409276-d2eadfec-23da-4f02-8273-dfd3be15534d.png)
 
 
 ## Blog Page
 
-![Screenshot 2023-04-03 093147](https://user-images.githubusercontent.com/112800148/229409330-d7df89ca-834f-43de-b07a-c859ceed9fe0.png)
+Users can post their experiences with our website which can inspire other users and also promote our website
 
 
 ## About Page
 
-![Screenshot 2023-04-03 093201](https://user-images.githubusercontent.com/112800148/229409349-1449cc49-3587-494e-ac06-922bc481dc1b.png)
+Contains main source of inspiration and history of the making of FitnessHelp
 
 
 ## Signup Page
@@ -94,7 +80,7 @@ As part of our collaborative project during Construct Week at Masai School, we d
 ![Screenshot 2023-04-03 093625](https://user-images.githubusercontent.com/112800148/229409940-188a126f-edd5-4dae-93a1-c2130ec73a91.png)
 
 
-## Add Nurtriants Page
+## Add Nutrients Page
 
 ![Screenshot 2023-04-03 093637](https://user-images.githubusercontent.com/112800148/229409946-46ebaa6c-d26b-4e76-94ad-249bdccd6a70.png)
 
